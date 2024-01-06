@@ -1,4 +1,4 @@
-# live_tools
+# Commande d'installation
 
 Liste des commandes pour set-up le projet:  
 
